@@ -1,0 +1,87 @@
+@media (max-width: 600px){
+    .container{
+        flex-direction: column;
+        
+
+    }
+    .lista{
+        margin-top: 10px;
+    }
+    
+    
+}
+
+
+
+.lista{
+    float: right;
+    margin-bottom: 10%;
+    margin-top: -700px;
+    font-size: 22pt;
+    width: 20%;
+    height: 300px;
+    
+
+}
+.cabecalho{
+    align-items: center;
+    display: flex;
+    margin-left: 25%;
+}
+.titulo-site{
+    align-items: center;
+    display: flex;
+    margin-left: 42%;
+    font-size: 32pt;
+
+}
+.texto-informativo{
+
+    align-items: center;
+    display: flex;
+    margin-left: 15%;
+    font-size: 18pt;
+}
+.imagens{
+margin-left: 15%;
+}
+.Barra-direita{
+
+    font-size: 22pt;
+    
+    
+    
+    
+}
+.minhas-info{
+
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 16pt;
+}
+.corpo{
+   background-color: rgba(255, 228, 196, 0.806);
+}
+.esquerda{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 8%;
+}
+.container{
+     flex-direction: column;
+      flex-wrap: wrap;
+      margin: 10px;
+
+      
+}
+#Direita{
+
+    flex-basis: auto;
+    margin-top: 20px;
+    flex-direction: column;
+    float: right;
+
+    
+}

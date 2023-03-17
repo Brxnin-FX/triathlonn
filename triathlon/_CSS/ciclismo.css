@@ -1,0 +1,17 @@
+.corpo{
+    background-color: rgba(106, 107, 105, 0.858);
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+}
+.texto{
+    font-size: 18pt;
+}
+.titulo{
+    margin-left: 35%;
+    font-size: 22pt;
+}

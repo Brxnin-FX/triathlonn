@@ -1,0 +1,33 @@
+.titulo-site{
+
+    font-size: 22pt;
+    margin-left: 40%;
+}
+.tabela{
+
+    font-size: 18pt;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.texto-esquerdo{
+
+    margin-top: 15%;
+    float: left;
+    
+
+}
+.texto-direito{
+
+    margin-top: 15%;
+    float: right;
+    
+}
+.voltar{
+    padding: 20px;
+    margin: 0;
+    position: absolute;
+    top: 150%;
+    left: 10%;
+    margin-right:-50%;
+    transform: translate(-50% , -50%)
+}
